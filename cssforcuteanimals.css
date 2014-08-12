@@ -1,0 +1,158 @@
+ul {
+	text-align: center;
+	color: red;
+	list-style-type: none;
+	margin: 0;
+	padding: 0
+}
+
+li {
+	display: inline;
+	border-radius: 15px;
+	padding: 5px;
+	background-color: #FFFFFF
+}
+
+body {
+	background-color: #FFCCCC;
+	background-position: center;
+}
+
+a:link {
+	color: #FF0099; text-decoration: underline; 
+}
+
+#welcome {
+	background-color: #FFFFFF;
+	border-radius: 15px;
+	color: #FF0099;	
+	text-align: center;
+	font-size: 100%;
+}
+
+img.wavingdog {
+	height: 325px;
+	width: 420px;
+	border-radius: 15px;
+	border: 5px solid white;
+}
+
+img.bubble {
+	position: absolute;
+	top: 130px;
+	left: 350px;
+	width: 250px;
+	height: 250px;
+}
+
+h3 {
+	font-style: italic;
+	position: absolute;
+	top: 230px;
+	left: 430px;
+}
+
+p {
+	text-align: center;
+	font-size: 125%;
+}
+
+span {
+	color: white;
+	font-size: 150%;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+}
+
+#submit {
+	border-radius: 15px;
+	border: 2px solid #FF0099;
+	background-color: white;
+	height: 24px;
+	width: 90px;
+	margin: auto;
+	text-align: center;
+}
+
+.one {
+	background-color: white;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 100px;
+}
+
+.two {
+	background-color: #FF0099;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 180px;
+}
+
+.three {
+	background-color: white;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 260px;
+}
+
+.four {
+	background-color: #FF0099;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 340px;
+}
+
+.five {
+	background-color: white;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 420px;
+}
+
+.six {
+	background-color: #FF0099;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 500px;
+}
+
+.seven {
+	background-color: white;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 580px;
+}
+
+.eight {
+	background-color: #FF0099;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+	top: 660px;
+}
