@@ -1,0 +1,17 @@
+
+.one {
+	background-color: purple;
+}
+
+.two {
+	background-color: black;
+}
+
+body {
+	background-color: gray;
+}
+
+#welcome {
+	background-color: #E61669;
+	color: black;	
+}

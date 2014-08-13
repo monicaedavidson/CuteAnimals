@@ -1,0 +1,100 @@
+body {
+	background-color: #FFCCCC;
+	background-position: center;
+}
+
+#welcome {
+	background-color: #FFFFFF;
+	border-radius: 15px;
+	color: #FF0099;	
+	text-align: center;
+	font-size: 80%;
+
+}
+
+#wavingdog {
+	height: 325px;
+	width: 420px;
+	border-radius: 15px;
+	border: 5px solid white;
+	display: block;
+	margin: 0 auto;
+
+}
+
+img.bubble {
+	position: absolute;
+	top: 130px;
+	left: 350px;
+	width: 250px;
+	height: 250px;
+}
+
+h3 {
+	font-style: italic;
+	position: absolute;
+	top: 230px;
+	left: 430px;
+}
+
+p {
+	text-align: center;
+	font-size: 125%;
+}
+
+span {
+	color: white;
+	font-size: 150%;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+}
+
+#one {
+	top: 100px;
+}
+
+#two {
+	top: 180px;
+}
+
+#three {
+	top: 260px;
+}
+
+#four {
+	top: 340px;
+}
+#five {
+	top: 420px;
+}
+
+#six {
+	top: 500px;
+}
+
+#seven {
+	top: 580px;
+}
+
+#eight {
+	top: 660px;
+}
+
+.bubbles {
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	position: absolute;
+	right: 15px;
+}
+
+.two {
+	background-color: #FF0099;
+}
+
+.one {
+	background-color: white;
+}
